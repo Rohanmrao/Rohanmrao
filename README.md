@@ -1,6 +1,7 @@
-### Hi there 👋
+### Welcome traveller...
 
 ![](https://komarev.com/ghpvc/?username=Rohanmrao&color=green)
+[![Rohanmrao](https://github-readme-stats.vercel.app/api?username=Rohanmrao)](https://github.com/Rohanmrao/github-readme-stats)
 
 <!--
 **Rohanmrao/Rohanmrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
