@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Rohanmrao&color=green)
+
 <!--
 **Rohanmrao/Rohanmrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
