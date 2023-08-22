@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Rohanmrao&color=green)<br>
 ![Rohanmrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanmrao&show_icons=true&theme=chartreuse-dark)<br>
-![](https://github.com/Rohanmrao/Rohanmrao/blob/main/matrix.gif)
+![](https://github.com/Rohanmrao/Rohanmrao/blob/main/matrix.gif)<br>
+<img src="https://github.com/Rohanmrao/Rohanmrao/blob/main/matrix.gif" width="40" height="40" />
 
 
 <!--
