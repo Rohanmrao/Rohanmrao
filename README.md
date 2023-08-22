@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Rohanmrao&color=green)<br>
-![Rohanmrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanmrao&show_icons=true&theme=chartreuse-dark&rank_icon=github)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanmrao)](https://github.com/Rohanmrao/github-readme-stats)
+![Rohanmrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanmrao&show_icons=true&theme=chartreuse-dark&rank_icon=github)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanmrao&show_icons=true&theme=chartreuse-dark)](https://github.com/Rohanmrao/github-readme-stats)
 <img src="https://github.com/Rohanmrao/Rohanmrao/blob/main/matrix.gif" width="1000" height="100" />
 
 
