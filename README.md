@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Rohanmrao&color=green)<br>
-![Rohanmrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanmrao&show_icons=true&theme=chartreuse-dark)&nbsp
-![](https://github.com/Rohanmrao/matrix.gif)
+![Rohanmrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanmrao&show_icons=true&theme=chartreuse-dark)
+![](https://github.com/Rohanmrao/Rohanmrao/main/matrix.gif)
 
 <!--
 **Rohanmrao/Rohanmrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
