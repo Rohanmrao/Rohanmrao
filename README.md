@@ -1,6 +1,6 @@
 ### Welcome traveller...
 
-![](https://komarev.com/ghpvc/?username=Rohanmrao&color=green)
+![](https://komarev.com/ghpvc/?username=Rohanmrao&color=green)<br>
 [![Rohanmrao](https://github-readme-stats.vercel.app/api?username=Rohanmrao)](https://github.com/Rohanmrao/github-readme-stats)
 
 <!--
