@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=py,js,matlab,c,ros,tensorflow,flask,nodejs,git,docker,linux,bash,raspberrypi)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=py,js,matlab,c,ros,tensorflow,nodejs,git,docker,linux,bash,raspberrypi)](https://skillicons.dev)<br><br>
 ![](https://komarev.com/ghpvc/?username=Rohanmrao&color=green)<br><br>
 ![Rohanmrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanmrao&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark&rank_icon=github) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rohanmrao&theme=chartreuse-dark&card_width=370)](https://git.io/streak-stats)
