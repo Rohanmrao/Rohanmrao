@@ -7,7 +7,7 @@
 <!--[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Rohanmrao&layout=donut&show_icons=true&theme=chartreuse-dark)](https://github.com/Rohanmrao/github-readme-stats)-->
 <img src="https://github.com/Rohanmrao/Rohanmrao/blob/main/matrix_4.gif" width="1000" height="100" />
 
-# [***Resume***](https://github.com/Rohanmrao/Rohanmrao/blob/main/Resume_Sep_2023_with_photo.pdf)
+# [***Resume***](https://github.com/Rohanmrao/Rohanmrao/blob/main/Resume_word_nov23_spaced_photo.pdf)
 # [***Linkedin***](https://www.linkedin.com/in/rohan-mahesh-rao-0aba62187/)
 
 <!--
